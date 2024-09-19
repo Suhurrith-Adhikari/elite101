@@ -1,2 +1,2 @@
-# elite101
-For Code2College
+# Elite101
+For Code2College program
